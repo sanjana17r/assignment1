@@ -1,0 +1,11 @@
+#grad1
+{
+    background: linear-gradient(lightyellow,yellow)
+}
+header{
+    height: 70px;   /* setting the diamension of header to 140*70*/
+    width: 140px;
+    color: white;   /*color of text is white*/
+    border: 1px;   /*border all sides is 1px*/
+    padding: 20px;  /*internal spacing is 20px*/
+}
