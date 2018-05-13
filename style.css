@@ -6,6 +6,9 @@ header{
     height: 70px;   /* setting the diamension of header to 140*70*/
     width: 140px;
     color: white;   /*color of text is white*/
-    border: 1px;   /*border all sides is 1px*/
+    border: 1px;    /*border is 1px*/
+    border-radius: 100%;  /*for circular boder as shown in output*/
+    background: blue;
     padding: 20px;  /*internal spacing is 20px*/
+    text-align: center; /*text is centre aligned*/
 }
